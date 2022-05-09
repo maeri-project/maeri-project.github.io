@@ -5,32 +5,16 @@ permalink: /docs/prerequisites
 ---
 
 ## Prerequisites
-- C++ Compiler (clang++ / g++)
-- CMake build system [CMake](https://cmake.org){: .btn .btn--info .btn--small}
-- Boost C++ Libraries [Boost](https://www.boost.org){: .btn .btn--info .btn--small}
-
-## Installaling Dependencies
 Please install dependencies shown below, according to your operating system.
 
-### Debian/Ubuntu
-Using `apt`.
-```bash
-sudo apt -y install \
-    vim gcc g++ make cmake \
-    libboost-dev libboost-program-options-dev \
-    python3 git
+
+Tested on Python 3.7 for model quantization -> pls use install the following
+```
+python3 -m pip install --upgrade pip3 wheel setuptools
+python3 -m pip install --upgrade torch
 ```
 
-### macOS
-Using `homebrew`.
-```bash
-brew install boost cmake coreutils
+For DSE, pls use the following instead
 ```
-
-### Windows
-Please use Windows Subsystem for Linux. [WSL](https://docs.microsoft.com/en-us/windows/wsl/install){: .btn .btn--info}
-
-<nav class="pagination">
-    <a href="#" class="pagination--pager disabled">Previous</a>
-    <a href="/docs/installation" class="pagination--pager">Next</a>
-</nav>
+pip3 install torch==1.11.0+cpu torchvision==0.12.0+cpu -f https://download.pytorch.org/whl/torch_stable.html torchinfo tqdm pillow pandas numpy 
+```
