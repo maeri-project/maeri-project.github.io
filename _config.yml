@@ -1,8 +1,8 @@
 # Page configuration
-title: ASTRA-sim
+title: maeri-project
 title_separator: "-"
 locale: "en-US"
-url: "https://astra-sim.github.io"
+url: "https://maeri-project.github.io"
 
 # Plugins
 plugins:
@@ -15,8 +15,8 @@ minimal_mistakes_skin: "default"  # Color scheme configuration
 
 # Author
 lab: "Synergy Lab"
-github_username: "astra-sim"
-repository: astra-sim/astra-sim.github.io
+github_username: "maeri-project"
+repository: maeri-project/maeri-project.github.io
 
 # Site Setup
 atom_feed:
@@ -28,7 +28,7 @@ footer:
       url: "https://synergy.ece.gatech.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/astra-sim"
+      url: "https://github.com/maeri-project"
 
 # Page setup
 defaults:
