@@ -9,12 +9,14 @@ header:
   actions:
     - label: "Get Started"
       url: "/docs"
-excerpt: "An Open-source Distributed Deep Learning Training Simulator Infrastructure"
+    - label: "Tutorials"
+      url: "/tutorials"
+excerpt: "An Open-source Neural Network Inference Infrastructure"
 intro:
 ics_2022_tutorial:
   - image_path: /assets/images/tutorials/ics-2022/tutorial_overview_figure.jpg
-    title: "maeri-project Tutorial @ ICS 2022"
-    excerpt: "We're running a maeri-project tutorial at ICS 2022.<br> Jun 27, 2022<br>(Virtual Event)."
+    title: "MAERI 2.0 Tutorial @ ICS 2022"
+    excerpt: "We're running a MAERI 2.0 tutorial at ICS 2022.<br> Jun 27, 2022<br>(Virtual Event)."
     url: "/tutorials/ics-2022"
     btn_label: "Read More"
     btn_class: "btn--primary"
