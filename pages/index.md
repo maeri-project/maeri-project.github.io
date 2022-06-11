@@ -45,4 +45,8 @@ Please email Jianming Tong (jianming.tong@gatech.edu) or Tushar Krishna (tushar@
 
 ## Additional Contributors
 * Tushar Krishna (Georgia Tech)
+* Abhimanyu Bambhaniya (Georgia Tech)
 * Taekyung Heo (Georgia Tech)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fastra-sim%2Fastra-sim.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
