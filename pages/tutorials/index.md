@@ -5,4 +5,4 @@ permalink: /tutorials
 ---
 
 ## 2022
-- [ICS 2022](/tutorials/ICS-2022)
+- [ICS 2022](/tutorials/ICS-2022){: .btn .btn--inverse}
