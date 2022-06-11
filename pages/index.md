@@ -31,7 +31,7 @@ In this tutorial, we will educate the research community about the challenges in
 
 <!-- ## 2022 -->
 ## Tutorial
-- [ICS 2022](/tutorials/ICS-2022){: .btn .btn--inverse}
+- [ICS 2022](/tutorials/ics-2022){: .btn .btn--inverse}
 
 
 ## Contact
