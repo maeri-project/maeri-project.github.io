@@ -29,10 +29,9 @@ toc: false
 In this tutorial, we will educate the research community about the challenges in the emerging domain of Neural Network Accelerator, demonstrate the capabilities of MAERI 2.0 with examples and discuss ongoing development efforts.<br>
 
 
-{% include feature_row id="isca_2022_tutorial" type="right" %}
-{% include feature_row id="mlsys_2022_tutorial" type="left" %}
-
-
+<!-- ## 2022 -->
+## Tutorial
+- [ICS 2022](/tutorials/ICS-2022){: .btn .btn--inverse}
 
 
 ## Contact
@@ -45,4 +44,3 @@ Please email Jianming Tong (jianming.tong@gatech.edu) or Tushar Krishna (tushar@
 ## Additional Contributors
 * Tushar Krishna (Georgia Tech)
 * Taekyung Heo (Georgia Tech)
-
